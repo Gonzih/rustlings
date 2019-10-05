@@ -1,0 +1,13 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/rust:latest
+    steps:
+      - checkout
+      - run:
+          name: Setup
+          command: curl -L https://git.io/rustlings | bash
+      - run:
+          name: Verify
+          command: rustlings verify
