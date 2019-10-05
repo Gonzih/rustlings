@@ -1,4 +1,6 @@
-![crab pet](https://i.imgur.com/LbZJgmm.gif) 
+[![CircleCI](https://circleci.com/gh/Gonzih/rustlings/tree/solved.svg?style=svg)](https://circleci.com/gh/Gonzih/rustlings/tree/solved)
+
+![crab pet](https://i.imgur.com/LbZJgmm.gif)
 
 # rustlings 🦀❤️
 
@@ -46,7 +48,7 @@ Same as above, run `rustlings` to get started.
 
 ## Doing exercises
 
-The exercises are sorted by topic and can be found in the subdirectory `rustlings/exercises/<topic>`. For every topic there is an additional README file with some resources to get you started on the topic. We really recommend that you have a look at them before you start. 
+The exercises are sorted by topic and can be found in the subdirectory `rustlings/exercises/<topic>`. For every topic there is an additional README file with some resources to get you started on the topic. We really recommend that you have a look at them before you start.
 
 The task is simple. Most exercises contain an error that keep it from compiling, and it's up to you to fix it! Some exercises are also ran as tests, but rustlings handles them all the same. To run the exercises in the recommended order, execute:
 
@@ -99,4 +101,3 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Credits
 
 `rustlings` was originally written by [Carol](https://github.com/carols10cents)!
-
