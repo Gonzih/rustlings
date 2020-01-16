@@ -104,4 +104,3 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md).
 ## Credits
 
 `rustlings` was originally written by [Carol](https://github.com/carols10cents)!
-
